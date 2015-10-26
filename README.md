@@ -1,4 +1,4 @@
-tank
+Tank
 ====
 
-traditional tank game.
+Traditional Tank Game.
